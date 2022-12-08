@@ -92,5 +92,7 @@
   <br/>
 
 </details>
-<a align="center" href="#">
+<div align="center">
+<a href="#">
 <img alt="snake" src="https://github.com/mathsukamura/Profile/blob/main/snake.svg"></a>
+</div>
