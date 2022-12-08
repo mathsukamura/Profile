@@ -92,7 +92,5 @@
   <br/>
 
 </details>
-<a href="#">
+<a align="center" href="#">
 <img alt="snake" src="https://github.com/mathsukamura/Profile/blob/main/snake.svg"></a>
-
-![Snake animation](https://github.com/mathsukamura/Profile/blob/main/snake.svg)
