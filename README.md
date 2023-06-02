@@ -2,7 +2,7 @@
  WELLCOME MY PROFILE
   <img align="center" src="./gif/giphy.gif" style="left: 0px; top:-20%; position: sticky " width="100"> -->
 <div style="display: flex; align-items: center;">
-  <h1 align="center">WELCOME MY PROFILE</h1>
+  <h1 style="flex-grow: 1;">WELCOME MY PROFILE</h1>
   <img src="./gif/giphy.gif" width="100" style="margin-left: 10px;">
 </div>
 
