@@ -1,6 +1,6 @@
 <h1 align="center">
  WELLCOME MY PROFILE
-  <img align="center" src="./gif/giphy.gif" style="left: 0px; top:-20%; position: sticky " width="100">
+  <img align="center" src="./gif/giphy.gif" style="left: 0px; top:-20%; position: sticky " width="80">
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2581A9&center=true&vCenter=true&width=435&lines=Analise+de+dados%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB;Estrutura+de+dados%F0%9F%A7%AC;Bibliotecas%F0%9F%93%9A;Estudo%F0%9F%93%98;Refatoramento%F0%9F%94%A7;Criatividade%F0%9F%92%A1;Todos+em+um+user%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%9A%80" alt="Typing SVG" width="600" /></a>
@@ -14,8 +14,9 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Luan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Mathsukamura&theme=prussian&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="matheus's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Mathsukamura&theme=prussian&hide_border=true"/>
   </a>
+  
 </p>
 
 <h1 align="center"> 🛠️ Minhas Ferramentas Favoritas </h1>
