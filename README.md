@@ -23,6 +23,7 @@
 <h2 align="center">👨‍💻 Linguagens de Programação </h2>
 
 <p align="center">
+    <a href="#"><img alt="C#" src="https://img.shields.io/badge/C%23%20-%23239120.svg?logo=c-sharp&logoColor=white"></a>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
@@ -40,6 +41,7 @@
 <h2 align="center">🧰 Frameworks e Bibliotecas</h2>
 
 <p align="center">
+    <a href="#"><img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white"/></a>
     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
     <a href="#"><img alt="Electron" src="https://img.shields.io/badge/Electron%20-%2320232e.svg?logo=electron&logoColor=white"></a>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?logo=express&logoColor=white"></a>
