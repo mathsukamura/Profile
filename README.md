@@ -13,10 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="matheus's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Mathsukamura&theme=prussian&hide_border=true"/>
-  </a>
-  
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mathsukamura&theme=github-dark-blue" alt="GitHub Streak" /></a>
 </p>
 
 <h1 align="center"> 🛠️ Minhas Ferramentas Favoritas </h1>
